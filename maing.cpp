@@ -9,7 +9,8 @@ int main()
     int z,doo;
     int w;
     lista<int,int> l;
-    do
+    cout<<"zmiana2";
+	do
       {
       cout<<"czy dodac element? ";
       cin>>t;
